@@ -1,4 +1,4 @@
-# Seedgen ERP - Enterprise Management System
+# Codeigniter ERP - Enterprise Management System (seedgen)
 
 A light, fast, enterprise-grade resource planning system engineered with PHP and the CodeIgniter framework. Seedgen ERP provides a unified platform to streamline organizational workflows, manage inventory/seed processing cycles, track financial logs, and oversee operational roles with minimal server overhead.
 
